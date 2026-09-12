@@ -1,6 +1,6 @@
 {
   "appId": "com.analyticspro.app",
   "appName": "Analytics Pro",
-  "webDir": ".",
+  "webDir": "www",
   "bundledWebRuntime": false
 }
